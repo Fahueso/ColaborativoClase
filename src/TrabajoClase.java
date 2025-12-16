@@ -3,7 +3,7 @@ public class TrabajoClase {
         System.out.println("Pasando Lista:");
         System.out.println("Cristian:");
         System.out.println("Robert:");
-        System.out.println("Claudia:");
+        System.out.println("Claudia: Presente");
 
 
     }
